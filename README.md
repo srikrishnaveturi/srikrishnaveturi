@@ -1,4 +1,5 @@
 ### Hi there 👋
+Machine learning and robotics enthusiast, check out my repositories for a quick look at my projects.
 
 <!--
 **srikrishnaveturi/srikrishnaveturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
