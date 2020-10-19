@@ -1,5 +1,5 @@
 ### Hi there 👋
-Machine learning and robotics enthusiast, check out my repositories for a quick look at my projects.
+Machine learning and robotics enthusiast, check out my repositories for a quick look at my projects.<br>
 I’m currently working on machine learning intergration with flutter
 
 <!--
